@@ -1,0 +1,43 @@
+﻿@page
+@model UserRegistration2.Pages.Users.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>UserRegistration</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserRegistration.FullName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserRegistration.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserRegistration.EmailAddress)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserRegistration.EmailAddress)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserRegistration.Password)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserRegistration.Password)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserRegistration.RepeatedPassword)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserRegistration.RepeatedPassword)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.UserRegistration.UserId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

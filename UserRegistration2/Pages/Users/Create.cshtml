@@ -1,0 +1,49 @@
+﻿@page
+@model UserRegistration2.Pages.Users.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>UserRegistration</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserRegistration.FullName" class="control-label"></label>
+                <input asp-for="UserRegistration.FullName" class="form-control" />
+                <span asp-validation-for="UserRegistration.FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserRegistration.EmailAddress" class="control-label"></label>
+                <input asp-for="UserRegistration.EmailAddress" class="form-control" />
+                <span asp-validation-for="UserRegistration.EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserRegistration.Password" class="control-label"></label>
+                <input asp-for="UserRegistration.Password" class="form-control" />
+                <span asp-validation-for="UserRegistration.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserRegistration.RepeatedPassword" class="control-label"></label>
+                <input asp-for="UserRegistration.RepeatedPassword" class="form-control" />
+                <span asp-validation-for="UserRegistration.RepeatedPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
