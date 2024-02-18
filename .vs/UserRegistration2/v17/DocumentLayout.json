@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,15 +55,7 @@
       "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\branc\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -77,72 +77,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:37:35.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-17T15:37:35.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:37:35.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-17T15:37:35.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:37:35.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Program.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Program.cs",
@@ -155,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Delete.cshtml.cs",
@@ -163,12 +98,11 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Delete.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:37:36.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T15:37:36.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserRegistrationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Data\\UserRegistrationDbContext.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Data\\UserRegistrationDbContext.cs",
@@ -181,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Delete.cshtml",
@@ -189,25 +123,110 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-17T15:37:36.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T15:37:36.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Index.cshtml",
               "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Index.cshtml",
               "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-17T15:37:36.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T15:37:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:37:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T15:29:10.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:37:35.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T15:37:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T15:37:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:37:35.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Index.cshtml.cs",
@@ -215,25 +234,11 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Index.cshtml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T15:37:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T15:37:36.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Users\\Create.cshtml",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Users\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-17T15:37:35.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\branc\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
@@ -241,8 +246,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-17T15:28:03.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T15:28:03.737Z"
             },
             {
               "$type": "Document",
@@ -254,8 +258,7 @@
               "RelativeToolTip": "UserRegistration2\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-16T15:59:48.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T15:59:48.371Z"
             },
             {
               "$type": "Document",
@@ -267,21 +270,7 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-15T16:25:04.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
-              "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-15T15:29:10.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T16:25:04.987Z"
             }
           ]
         }
