@@ -43,7 +43,7 @@
               "RelativeDocumentMoniker": "UserRegistration2\\Models\\UserRegistration.cs",
               "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Models\\UserRegistration.cs",
               "RelativeToolTip": "UserRegistration2\\Models\\UserRegistration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T16:55:08.178Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T16:33:09.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T16:33:09.894Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T16:27:48.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T16:27:48.765Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "UserRegistration2\\Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T15:56:46.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T15:56:46.356Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "UserRegistration2\\Data\\UserRegistrationDbContext.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T15:55:22.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-18T15:55:22.117Z"
             },
             {
               "$type": "Document",
