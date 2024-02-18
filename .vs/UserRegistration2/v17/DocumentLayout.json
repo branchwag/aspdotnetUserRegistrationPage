@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\branc\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|c:\\users\\branc\\source\\repos\\userregistration2\\userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD5B6F36-D29C-4146-A2C6-B913B40A9791}|UserRegistration2\\UserRegistration2.csproj|solutionrelative:userregistration2\\data\\userregistrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\branc\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +38,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration2\\Models\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "UserRegistration2\\Models\\UserRegistration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:55:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:33:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserRegistration2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "UserRegistration2\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T16:27:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Program.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Program.cs",
               "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Program.cs",
               "RelativeToolTip": "UserRegistration2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T15:56:46.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserRegistrationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Data\\UserRegistrationDbContext.cs",
               "RelativeDocumentMoniker": "UserRegistration2\\Data\\UserRegistrationDbContext.cs",
               "ToolTip": "C:\\Users\\branc\\source\\repos\\UserRegistration2\\UserRegistration2\\Data\\UserRegistrationDbContext.cs",
               "RelativeToolTip": "UserRegistration2\\Data\\UserRegistrationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T15:55:22.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\branc\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
@@ -59,8 +110,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7fc23d5c-0446-475d-8dff-97002ecf1be7\\secrets.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-17T15:28:03.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T15:28:03.737Z"
             }
           ]
         }
