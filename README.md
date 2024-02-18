@@ -4,7 +4,7 @@ Many thanks to the following tutorial links:\
 https://www.youtube.com/watch?v=CsT1G3SmHXE <br />
 https://www.youtube.com/watch?v=c-wN-fc594c&ab_channel=dotnet
 
-Registration form template:
+Registration form template:\
 https://mdbootstrap.com/docs/standard/extended/registration/
 
 ~vim was used here ;) 
