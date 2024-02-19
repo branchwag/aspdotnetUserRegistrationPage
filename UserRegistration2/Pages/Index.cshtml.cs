@@ -17,12 +17,6 @@ namespace UserRegistration2.Pages
 
         }
 
-        //public void OnPost()
-        //{
-        //    if (!ModelState.IsValid)
-        //    {
-        //        //Do something if not valid
-        //    }
-        //}
+
     }
 }

@@ -38,7 +38,7 @@ namespace UserRegistration2.Pages.Users
             _context.UserRegistrations.Add(UserRegistration);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("./Index");
+            return RedirectToPage("./ThankYou");
         }
     }
 }

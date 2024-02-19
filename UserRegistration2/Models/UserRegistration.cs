@@ -18,10 +18,12 @@ public partial class UserRegistration
     public string? EmailAddress { get; set; }
 
     [Required]
+    [DataType(DataType.Password)]
     [DisplayName("password")]
     public string? Password { get; set; }
 
     [Required]
+    [DataType(DataType.Password)]
     [DisplayName("repeated password")]
     public string? RepeatedPassword { get; set; }
 }
